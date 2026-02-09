@@ -27,7 +27,7 @@ public class Method_loop {
         Aryan obj = new Aryan();
 
         // To call static method and non static method
-        obj.myMethod2("aryan");
+        // obj.myMethod2("aryan");
 
         //to call static function 2 way
         Aryan.myMethod2("yuu");
